@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+
+body
+{
+	 background: linear-gradient(to top right, #ccccff 53%, #6666ff 105%);
+}
+h1
+{
+	color:red;
+	font-family:aerial;
+	font-size:42px;
+	
+}
+.specialButton
+{
+	background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding:10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.specialButton:hover
+{
+	background-color: black; 
+    border: none;
+    color: red;
+    padding:10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#div2
+{
+	position:relative;
+	top:15px;
+	left:10px;
+}

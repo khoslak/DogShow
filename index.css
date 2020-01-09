@@ -1,0 +1,78 @@
+@charset "ISO-8859-1";
+body
+{
+	 background: linear-gradient(to top right, #ccccff 53%, #6666ff 105%);
+	 
+
+}
+img
+{
+	position:relative;
+	left:700px;
+}
+h1
+{
+	text-align:center;
+	color:red;
+
+	
+}
+
+table
+{
+	border-spacing:14px;
+	position:relative;
+	top:-40px;
+}
+.specialButton
+{
+	background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding:10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.specialButton:hover
+{
+	background-color: black; 
+    border: none;
+    color: red;
+    padding:10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#div2
+{
+	position:relative;
+	top:-130px;
+}
+
+#gtd
+{
+	position:relative;
+	left:650px;
+	top:-120px;
+}
+#std
+{
+	position:relative;
+	left:770px;
+	top:-158px;
+}
+
+#dtd
+{
+	position:relative;
+	top:67px;
+}
+#dishow
+{
+	position:relative;
+	top:-260px;
+}
+
